@@ -1,0 +1,30 @@
+.main{
+    padding-left:  1%;
+}
+.codeLabel{
+    margin-right: 1%;
+    font-weight: bold ;
+}
+.codeInput{
+    width: 40px;
+
+}
+.nameLabel{
+    margin-right: 1%;
+    margin-left: 1%;
+    font-weight: bold ;
+}
+.NameInput{
+    width: 170px;
+
+}
+.NameInput:focus{
+        background-color: yellow;
+}
+.codeInput:focus{
+    background-color: yellow;
+}
+
+.itemBox{
+    width: 150px;
+}
